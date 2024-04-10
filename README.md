@@ -10,3 +10,6 @@ Neumorphism-Analog-Clock-2: https://willowy-taiyaki-7d3e59.netlify.app/
 
 Responsive-Analog-Clock-3: 
 
+![image](https://github.com/Deepak-197/Watch-js/assets/104504771/f7096b36-deea-4c37-affb-1cb2f9cc0f0b)
+
+
